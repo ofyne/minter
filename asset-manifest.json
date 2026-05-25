@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/minter/static/css/main.2c475f23.css",
+    "main.js": "/minter/static/js/main.251791a6.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/minter/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/recent-search.svg": "/minter/static/media/recent-search.cbf887f17abb4f142b3e5b0abfc0f5fb.svg",
+    "static/media/pen.svg": "/minter/static/media/pen.3ccf9cb242de51a233a0567ff299e98e.svg",
+    "static/media/link-open.svg": "/minter/static/media/link-open.a2a7379505561adb188a0df4278606c0.svg",
+    "index.html": "/minter/index.html",
+    "static/media/logo.svg": "/minter/static/media/logo.ae45f43f71fd6b22d169bb3a391a639d.svg",
+    "static/media/error-notification.svg": "/minter/static/media/error-notification.1c6d2f4a2526a3c92191e4152cb18a40.svg",
+    "static/media/copy.svg": "/minter/static/media/copy.d1b37fa15bf7163b9577c7db015486e6.svg",
+    "static/media/search.svg": "/minter/static/media/search.81bbc20b976d0b534354b3cef4741aad.svg",
+    "static/media/close.svg": "/minter/static/media/close.ee55be622b56de84c90c4281fdf17447.svg",
+    "main.2c475f23.css.map": "/minter/static/css/main.2c475f23.css.map",
+    "main.251791a6.js.map": "/minter/static/js/main.251791a6.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/minter/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c475f23.css",
+    "static/js/main.251791a6.js"
+  ]
+}
